@@ -5,5 +5,7 @@
     "hash": "93d5ffdf5b9272db4283f9ff941a2f2e2a4d9c95f710a7f439674c342b81f0ef",
     "bin": "SAK.exe",
     "homepage": "https://github.com/dezem/SAK",
-    "checkver": "github"
+    "checkver": "github",
+    "license": "The code was completely developed by me. So the tool can be published completely free and legal! (The me refers to Mr. dezem, not to yuuki76.)",
+    "description": "With Switch Army Knife you can easily juggle XCI / NSP content from your switch."
 }
