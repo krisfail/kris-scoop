@@ -1,0 +1,10 @@
+{
+    "version": "4.1.1",
+    "url": "https://github.com/xxxserxxx/gotop/releases/download/v4.1.1/gotop_v4.1.1_windows_amd64.zip",
+    "hash": "fe3f2c0dd110fce63b1ad274bdefac8e99da4c7a7951c86239238cfb3de53ee5",
+    "bin": "gotop.exe",
+    "homepage": "https://github.com/xxxserxxx/gotop",
+    "checkver": "github",
+    "license": "MIT",
+    "description": "A terminal based graphical activity monitor inspired by gtop and vtop"
+}
