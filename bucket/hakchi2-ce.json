@@ -1,0 +1,10 @@
+{
+    "version": "3.9.1",
+    "url": "https://github.com/TeamShinkansen/Hakchi2-CE/releases/download/v3.9.1/hakchi2-ce-3.9.1-portable.zip",
+    "hash": "47d1e6795c0d55f85957920ffee9dbd0a9c91952834fd9321fece57519304caf",
+    "bin": "hakchi.exe",
+    "homepage": "https://github.com/TeamShinkansen/Hakchi2-CE",
+    "checkver": "github",
+    "license": "GPL-3.0-or-later",
+    "description": "Tool that allows you to add more games to your NES/SNES Classic Mini"
+}

@@ -54,4 +54,8 @@
             ".github/workflows/*",
         ],
     },
+    "cSpell.ignoreWords": [
+        "dezem",
+        "hakchi"
+    ],
 }
