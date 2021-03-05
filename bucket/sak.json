@@ -1,6 +1,9 @@
 {
-    "version": "0.7.4",
+    "version": "0.7.7",
     "url": "https://github.com/dezem/SAK/releases/download/0.7.7/SAK_v0.7.7_64bit_20201231-09-36-58.7z",
     "extract_dir": "SAK_64bit",
-    "bin": "SAK.exe"
+    "hash": "93d5ffdf5b9272db4283f9ff941a2f2e2a4d9c95f710a7f439674c342b81f0ef",
+    "bin": "SAK.exe",
+    "homepage": "https://github.com/dezem/SAK",
+    "checkver": "github"
 }
