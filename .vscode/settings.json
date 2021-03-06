@@ -56,9 +56,11 @@
     },
     "cSpell.ignoreWords": [
         "dezem",
+        "dstools",
         "gotop",
         "gtop",
         "hakchi",
         "vtop"
     ],
+    "cmake.configureOnOpen": false,
 }
