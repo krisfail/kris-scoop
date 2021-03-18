@@ -1,10 +1,10 @@
 {
-    "version": "2021.2.9",
+    "version": "2021.3.18",
     "description": "Multi-connections download manager",
     "homepage": "https://github.com/firedm/FireDM",
     "license": "LGPL-3.0-only",
-    "url": "https://github.com/firedm/FireDM/releases/download/2021.2.9/FireDM_2021.2.9.zip",
-    "hash": "9beef8e8e439d9fbbdd494692e63d6dfff2846e36780e174a0bbffd70761bb2c",
+    "url": "https://github.com/firedm/FireDM/releases/download/2021.3.18/FireDM_2021.3.18.zip",
+    "hash": "5a43b04b251659d0a7c4cae360b4f9000b01f563088debbaac589f7f66d2d229",
     "extract_dir": "FireDM",
     "bin": "FireDM.exe",
     "shortcuts": [
