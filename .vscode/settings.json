@@ -63,4 +63,5 @@
         "vtop"
     ],
     "cmake.configureOnOpen": false,
+    "python.pythonPath": "C:\\Users\\yukim\\scoop\\shims\\python.exe",
 }
