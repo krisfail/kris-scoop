@@ -1,0 +1,20 @@
+{
+    "version": "2022.2.5",
+    "description": "Multi-connections download manager",
+    "homepage": "https://github.com/firedm/FireDM",
+    "license": "LGPL-3.0-only",
+    "url": "https://github.com/firedm/FireDM/releases/download/2022.2.5/FireDM_2022.2.5.zip",
+    "hash": "03cb296c3e54c2cee80b16e1e91708250a7fee6d338f9be88acf9414429210a0",
+    "extract_dir": "FireDM",
+    "bin": "FireDM.exe",
+    "shortcuts": [
+        [
+            "FireDM.exe",
+            "FireDM"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/firedm/FireDM/releases/download/$version/FireDM_$version.zip"
+    }
+}
