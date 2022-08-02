@@ -1,7 +1,7 @@
 {
-    "version": "4.1.2",
-    "url": "https://github.com/xxxserxxx/gotop/releases/download/v4.1.2/gotop_v4.1.2_windows_amd64.zip",
-    "hash": "3977af8a7ebd7ac997cafdb2404a96d457090a07738649c12ec87682ffc3784f",
+    "version": "4.1.4",
+    "url": "https://github.com/xxxserxxx/gotop/releases/download/v4.1.4/gotop_v4.1.4_windows_amd64.zip",
+    "hash": "500a35139a31bb6a3b0a534f76f37563f6ef036e62a01b6dd784bb5ee00c07a7",
     "bin": "gotop.exe",
     "homepage": "https://github.com/xxxserxxx/gotop",
     "checkver": "github",
